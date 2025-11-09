@@ -214,6 +214,26 @@ const alifAhsan = {
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🎨 **3D Contribution Calendar**
+
+<img src="https://raw.githubusercontent.com/A-ahsan/A-ahsan/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🎯 **GitHub Metrics**
+
+<img width="100%" src="https://metrics.lecoq.io/A-ahsan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&isocalendar=1&config.timezone=Asia%2FDhaka&config.animated=true" alt="GitHub Metrics" />
+
+</div>
+
 ---
 
 <div align="center">
@@ -235,20 +255,6 @@ const alifAhsan = {
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=A-ahsan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Detailed Stats" />
 
 </details>
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 **Watch the Snake Eat My Contributions!**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-ahsan/A-ahsan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-ahsan/A-ahsan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/A-ahsan/A-ahsan/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
