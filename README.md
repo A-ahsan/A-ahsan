@@ -218,9 +218,10 @@ const alifAhsan = {
 
 <div align="center">
 
-## 🎨 **3D Contribution Calendar**
+## 🎨 **Productivity & Coding Stats**
 
-<img src="https://raw.githubusercontent.com/A-ahsan/A-ahsan/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-ahsan&theme=tokyonight" alt="Productive Time" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-ahsan&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
@@ -228,9 +229,9 @@ const alifAhsan = {
 
 <div align="center">
 
-## 🎯 **GitHub Metrics**
+## � **Achievements & Stats**
 
-<img width="100%" src="https://metrics.lecoq.io/A-ahsan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&isocalendar=1&config.timezone=Asia%2FDhaka&config.animated=true" alt="GitHub Metrics" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-ahsan&theme=tokyonight" alt="Stats" />
 
 </div>
 
