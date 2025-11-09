@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alif%20Ahsan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20Ideas%20Into%20Reality%20Through%20Code&descAlignY=51&descAlign=50"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer+🚀;Machine+Learning+Enthusiast+🤖;Problem+Solver+💡;Open+Source+Contributor+🌟;Always+Learning+📚" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Open+Source+Contributor;Always+Learning" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -221,19 +221,18 @@ const alifAhsan = {
 ### 📊 **Detailed Stats**
 
 <details>
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-<br/>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
 <summary><b>📚 Top Languages</b></summary>
 <br/>
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-ahsan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+</details>
+
+<details>
+<summary><b>� Commit Stats</b></summary>
+<br/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=A-ahsan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Detailed Stats" />
 
 </details>
 
