@@ -4,16 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alif%20Ahsan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20Ideas%20Into%20Reality%20Through%20Code&descAlignY=51&descAlign=50"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%92%A1;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer+🚀;Machine+Learning+Enthusiast+🤖;Problem+Solver+💡;Open+Source+Contributor+🌟;Always+Learning+📚" alt="Typing SVG" /></a>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-ahsan/A-ahsan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-ahsan/A-ahsan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/A-ahsan/A-ahsan/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
+<br/><br/>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=A-ahsan&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views" />
@@ -86,8 +79,9 @@ motivation: "Life itself 💫"
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=A-ahsan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=A-ahsan&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-ahsan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=A-ahsan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366f1&line=6366f1&point=c9d1d9" alt="Activity Graph" />
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=A-ahsan&custom_title=Alif's%20Contribution%20Graph&bg_color=0D1117&color=6366f1&line=6366f1&point=c9d1d9&area_color=0D1117&title_color=6366f1&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -97,7 +91,7 @@ motivation: "Life itself 💫"
 
 ## 🏆 **GitHub Trophies**
 
-<img src="https://github-profile-trophy.vercel.app/?username=A-ahsan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=A-ahsan&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -138,18 +132,18 @@ const alifAhsan = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" alt="coding"/>
-<br/><b>Coding</b>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80" alt="coding"/>
+<br/><b>💻 Coding</b>
 <br/>Building cool stuff
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV1bWN0bWhneXl6Mzd1aWl6YnRmbGZ3djNkOGtqazd3MjZscXRseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krkrHAEodHgzP72rTI/giphy.gif" width="100" alt="gaming"/>
-<br/><b>Gaming</b>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHV1bWN0bWhneXl6Mzd1aWl6YnRmbGZ3djNkOGtqazd3MjZscXRseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krkrHAEodHgzP72rTI/giphy.gif" width="80" alt="gaming"/>
+<br/><b>🎮 Gaming</b>
 <br/>Leveling up skills
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/3o7abIileRivlGr8Nq/giphy.gif" width="100" alt="travel"/>
-<br/><b>Exploring</b>
+<img src="https://media.giphy.com/media/3o7abIileRivlGr8Nq/giphy.gif" width="80" alt="travel"/>
+<br/><b>🗺️ Exploring</b>
 <br/>Discovering new places
 </td>
 </tr>
@@ -192,7 +186,21 @@ const alifAhsan = {
 
 ## 📈 **Contribution Graph**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=A-ahsan&custom_title=Alif's%20Contribution%20Graph&bg_color=0D1117&color=6366f1&line=6366f1&point=c9d1d9&area_color=0D1117&title_color=6366f1&area=true&hide_border=true" alt="Contribution Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=A-ahsan&custom_title=Contribution%20Activity&bg_color=0D1117&color=6366f1&line=6366f1&point=c9d1d9&area_color=0D1117&title_color=6366f1&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### � **Watch the Snake Eat My Contributions!**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-ahsan/A-ahsan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-ahsan/A-ahsan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/A-ahsan/A-ahsan/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -203,18 +211,6 @@ const alifAhsan = {
 ## 💡 **Random Dev Quote**
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=6366f1" alt="Random Dev Quote" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### 🎵 **When I Code**
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=6366f1&bar_color_cover=true" alt="Spotify Now Playing" />
-
-<sub>*Connect your Spotify to show what you're listening to!*</sub>
 
 </div>
 
@@ -234,19 +230,10 @@ const alifAhsan = {
 </details>
 
 <details>
-<summary><b>📚 Repositories Overview</b></summary>
+<summary><b>📚 Top Languages</b></summary>
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-ahsan&theme=tokyonight" alt="Top Languages by Repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=A-ahsan&theme=tokyonight" alt="Top Languages by Commit" />
-
-</details>
-
-<details>
-<summary><b>🔥 Streak Stats</b></summary>
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=A-ahsan&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=6366f1&dates=c9d1d9" alt="GitHub Streak Stats" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-ahsan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </details>
 
