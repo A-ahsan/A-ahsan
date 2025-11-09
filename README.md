@@ -194,7 +194,7 @@ const alifAhsan = {
 
 <div align="center">
 
-### � **Watch the Snake Eat My Contributions!**
+### 🐍 **Watch the Snake Eat My Contributions!**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-ahsan/A-ahsan/output/github-contribution-grid-snake-dark.svg">
@@ -208,7 +208,7 @@ const alifAhsan = {
 
 <div align="center">
 
-## 💡 **Random Dev Quote**
+## 💡 **Dev Quote For Us**
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=6366f1" alt="Random Dev Quote" />
 
