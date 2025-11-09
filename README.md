@@ -118,7 +118,7 @@ const alifAhsan = {
         databases: ["MySQL", "MongoDB", "PostgreSQL"],
         misc: ["Git", "Docker", "REST APIs"]
     },
-    architecture: ["SPA", "MVC", "Microservices"],
+    
     currentFocus: "Mastering Machine Learning & Building Scalable Apps"
 };
 ```
@@ -171,9 +171,9 @@ const alifAhsan = {
 <a href="https://www.facebook.com/alif.ahsan.007">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<!-- <a href="https://linkedin.com/in/yourprofile">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+</a> -->
 <a href="https://github.com/A-ahsan">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -260,7 +260,7 @@ const alifAhsan = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
 
-**Made with 💜 and ☕ by Alif Ahsan**
+**☕ by Alif Ahsan**
 
 *"Don't be late for anything - especially opportunities!"*
 
