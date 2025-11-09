@@ -229,7 +229,7 @@ const alifAhsan = {
 
 <div align="center">
 
-## � **Achievements & Stats**
+## 🏅 **Achievements & Stats**
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-ahsan&theme=tokyonight" alt="Stats" />
 
@@ -250,7 +250,7 @@ const alifAhsan = {
 </details>
 
 <details>
-<summary><b>� Commit Stats</b></summary>
+<summary><b>📈 Commit Stats</b></summary>
 <br/>
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=A-ahsan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Detailed Stats" />
