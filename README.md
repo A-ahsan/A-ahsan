@@ -76,7 +76,7 @@ motivation: "Life itself 💫"
 
 ## 📊 **GitHub Analytics**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=A-ahsan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-omega-gray-krff7vfwaw.vercel.app/api?username=A-ahsan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=A-ahsan&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
 
 <br/><br/>
@@ -245,7 +245,7 @@ const alifAhsan = {
 <summary><b>📚 Top Languages</b></summary>
 <br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-ahsan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img width="100%" src="https://github-readme-stats-omega-gray-krff7vfwaw.vercel.app/api/top-langs/?username=A-ahsan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </details>
 
@@ -253,7 +253,7 @@ const alifAhsan = {
 <summary><b>📈 Commit Stats</b></summary>
 <br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=A-ahsan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Detailed Stats" />
+<img width="100%" src="https://github-readme-stats-omega-gray-krff7vfwaw.vercel.app/api?username=A-ahsan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Detailed Stats" />
 
 </details>
 
